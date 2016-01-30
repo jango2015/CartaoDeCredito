@@ -1,0 +1,14 @@
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.pdb
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.pdb
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.csprojResolveAssemblyReference.cache
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.dll
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.pdb
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.dll
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.pdb
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.csprojResolveAssemblyReference.cache
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.pdb
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.pdb

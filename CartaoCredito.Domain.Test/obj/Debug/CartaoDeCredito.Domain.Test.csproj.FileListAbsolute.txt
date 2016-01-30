@@ -1,0 +1,3 @@
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoDeCredito.Domain.Test.csprojResolveAssemblyReference.cache
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.pdb

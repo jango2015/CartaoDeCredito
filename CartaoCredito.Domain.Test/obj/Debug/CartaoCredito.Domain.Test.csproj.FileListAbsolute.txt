@@ -1,0 +1,31 @@
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.Test.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.Test.pdb
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Moq.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.pdb
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Moq.xml
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.csprojResolveAssemblyReference.cache
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.pdb
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.Test.dll
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.Test.pdb
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.dll
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Moq.dll
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.pdb
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Moq.xml
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.csprojResolveAssemblyReference.cache
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.dll
+C:\GitHub\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.pdb
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.Test.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.Test.pdb
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\CartaoCredito.Domain.pdb
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.csprojResolveAssemblyReference.cache
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain.Test\obj\Debug\CartaoCredito.Domain.Test.pdb

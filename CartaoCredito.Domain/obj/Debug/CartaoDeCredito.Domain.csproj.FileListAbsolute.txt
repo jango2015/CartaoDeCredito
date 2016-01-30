@@ -1,0 +1,4 @@
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\bin\Debug\CartaoCredito.Domain.pdb
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Domain\obj\Debug\CartaoCredito.Domain.pdb

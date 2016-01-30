@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8B39B60-041E-4A76-A6E3-34E7D086D1EF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CartaoCredito.Domain</RootNamespace>
+    <AssemblyName>CartaoCredito.Domain</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\CarrinhoDeCompras.cs" />
+    <Compile Include="Entities\CartaoDeCredito.cs" />
+    <Compile Include="Entities\Comprador.cs" />
+    <Compile Include="Entities\Item.cs" />
+    <Compile Include="Entities\AutorizacaoTransacao.cs" />
+    <Compile Include="Entities\AutorizacaoTransacaoPedido.cs" />
+    <Compile Include="Entities\AutorizacaoTransacaoPedidoData.cs" />
+    <Compile Include="Entities\AutorizacaoTransacaoResposta.cs" />
+    <Compile Include="Interfaces\Services\IAutorizacaoTransacaoPedidoDataService.cs" />
+    <Compile Include="Interfaces\Services\IAutorizacaoTransacaoService.cs" />
+    <Compile Include="Interfaces\Services\IAutorizacaoTransacaoPedido.cs" />
+    <Compile Include="Interfaces\Services\IAutorizacaoTransacaoResposta.cs" />
+    <Compile Include="Interfaces\Services\IServiceBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Interfaces\Repository\IRepositoryBase.cs" />
+    <Compile Include="Interfaces\Repository\IAutorizacaoTransacaoPedidoDataRepository.cs" />
+    <Compile Include="Services\AutorizacaoTransacaoPedidoDataService.cs" />
+    <Compile Include="Services\AutorizacaoTransacaoService.cs" />
+    <Compile Include="Services\ServiceBase.cs" />
+    <Compile Include="ValueObjects\Bandeira.cs" />
+    <Compile Include="ValueObjects\Endereco.cs" />
+    <Compile Include="ValueObjects\AutorizacaoTransacaoStatus.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

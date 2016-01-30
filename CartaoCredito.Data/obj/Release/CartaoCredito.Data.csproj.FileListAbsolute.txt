@@ -1,0 +1,12 @@
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\CartaoCredito.Data.dll.config
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\CartaoCredito.Data.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\CartaoCredito.Data.pdb
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\CartaoCredito.Domain.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\EntityFramework.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\CartaoCredito.Domain.pdb
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\EntityFramework.xml
+C:\Projetos\CartaoCredito\CartaoCredito.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Projetos\CartaoCredito\CartaoCredito.Data\obj\Release\CartaoCredito.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\CartaoCredito\CartaoCredito.Data\obj\Release\CartaoCredito.Data.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Data\obj\Release\CartaoCredito.Data.pdb

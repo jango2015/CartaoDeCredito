@@ -1,0 +1,4 @@
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\bin\Release\CartaoCredito.Domain.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\bin\Release\CartaoCredito.Domain.pdb
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\obj\Release\CartaoCredito.Domain.dll
+C:\Projetos\CartaoCredito\CartaoCredito.Domain\obj\Release\CartaoCredito.Domain.pdb

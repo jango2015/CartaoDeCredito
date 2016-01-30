@@ -1,0 +1,12 @@
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\bin\Debug\CartaoCredito.Data.dll.config
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\bin\Debug\CartaoCredito.Data.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\bin\Debug\CartaoCredito.Data.pdb
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\bin\Debug\CartaoCredito.Domain.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\bin\Debug\EntityFramework.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\bin\Debug\CartaoCredito.Domain.pdb
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\bin\Debug\EntityFramework.xml
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\obj\Debug\CartaoDeCredito.Data.csprojResolveAssemblyReference.cache
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\obj\Debug\CartaoDeCredito.Data.Migrations.add_tab_pedido.resources
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\obj\Debug\CartaoDeCredito.Data.csproj.GenerateResource.Cache
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\obj\Debug\CartaoCredito.Data.dll
+C:\GitHub - Copia\public\CartaoCredito\CartaoCredito.Data\obj\Debug\CartaoCredito.Data.pdb
